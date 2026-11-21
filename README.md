@@ -39,6 +39,10 @@ Bridder をダウンロードする方法には、3 つあります。
    <a href="https://greasyfork.org/ja/scripts/472754-bridder">Bridder のページ</a>
 3. インストールします。
 
+## Chrome ウェブストアへの提出
+
+`pnpm zip` で `.output/bridder-2.3.1-chrome.zip` を生成します。掲載文と申告メモは [store/LISTING.md](store/LISTING.md)、プライバシーポリシー案は [store/PRIVACY.md](store/PRIVACY.md)、提出用スクリーンショットは [store/screenshots](store/screenshots)、プロモーション画像は [store/promotional](store/promotional) にあります。公開にはストアの開発者アカウントでの申請と審査が必要です。
+
 ## 改善
 
 このレポジトリを改善する方法についてです。<br>

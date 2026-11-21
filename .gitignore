@@ -2,3 +2,8 @@ bin/**
 dist/**
 firefox-dist/**
 node_modules
+.output/**
+.wxt/**
+
+# Local snapshot of a logged-in X page (private data, test fixture only)
+x-latest.html
